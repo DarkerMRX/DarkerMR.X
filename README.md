@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sithuka
-- 👀 I’m interested in Cyber Security
+- 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning Networking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me only whatsapp +94704966900
