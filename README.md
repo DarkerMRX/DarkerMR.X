@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DarkerMR.X
+- 👋 Hi, I’m @DarkerMR.Z
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning Networking
 - 💞️ I’m looking to collaborate on ...
